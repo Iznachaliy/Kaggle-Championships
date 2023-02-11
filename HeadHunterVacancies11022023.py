@@ -13,56 +13,54 @@ Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_202
          "OpenCV", "TeamCity", "Jenkins", "Bamboo", "OpenShift", "Prometheus" "Nifi",
          "JupyterHub", "InfluxDB", "Elasticsearch", "Cassandra", "fastText", "MapReduce"]
 
-print(len(Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023))
+print("The total number of technologies represented on HeadHunter on the 11th of Februray 2023:\n" + len(Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023) + "\n")
 
 check_A = 'A'
  
-print("The original list : " + str(Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023))
+print("The original list:\n" + str(Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023))
 
 res_A = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_A.lower()]
  
-print("The list of technologies that start with A" + str(res_A))
+print("The list of technologies that start with A:\n" + str(res_A) + "\n")
 
 check_B = 'B'
 
 res_B = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_B.lower()]
  
-print("The list of technologies that start with B" + str(res_B))
+print("The list of technologies that start with B:\n" + str(res_B) + "\n")
 
 check_C = 'C'
 
 res_C = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_C.lower()]
  
-print("The list of technologies that start with C" + str(res_C))
+print("The list of technologies that start with C:\n" + str(res_C) + "\n")
 
 check_D = 'D'
 
 res_D = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_D.lower()]
  
-print("The list of technologies that start with D" + str(res_D))
+print("The list of technologies that start with D:\n" + str(res_D) + "\n")
 
 check_E = 'E'
 
 res_E = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_E.lower()]
  
-print("The list of technologies that start with E" + str(res_E))
+print("The list of technologies that start with E:\n" + str(res_E) + "\n")
 
 check_F = 'F'
 
 res_F = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_F.lower()]
  
-print("The list of technologies that start with F" + str(res_F))
+print("The list of technologies that start with F:\n" + str(res_F) + "\n")
 
 check_G = 'G'
 
 res_G = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_G.lower()]
  
-print("The list of technologies that start with G" + str(res_G))
+print("The list of technologies that start with G:\n" + str(res_G) + "\n")
 
 check_H = 'H'
 
 res_H = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_H.lower()]
  
-print("The list of technologies that start with H\n" + str(res_H))
-
-
+print("The list of technologies that start with H:\n" + str(res_H) + "\n")
