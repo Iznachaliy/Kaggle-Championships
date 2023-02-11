@@ -14,3 +14,29 @@ Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_202
          "JupyterHub", "InfluxDB", "Elasticsearch", "Cassandra", "fastText", "MapReduce"]
 
 print(len(Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023))
+
+check_A = 'A'
+ 
+print("The original list : " + str(Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023))
+
+res_A = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_A.lower()]
+ 
+print("The list of technologies that start with A" + str(res_A))
+
+check_B = 'B'
+
+res_B = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_B.lower()]
+ 
+print("The list of technologies that start with B" + str(res_B))
+
+check_C = 'C'
+
+res_C = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_C.lower()]
+ 
+print("The list of technologies that start with C" + str(res_C))
+
+check_D = 'D'
+
+res_D = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_D.lower()]
+ 
+print("The list of technologies that start with D" + str(res_D))
