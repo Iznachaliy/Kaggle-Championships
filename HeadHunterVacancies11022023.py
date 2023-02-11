@@ -1,4 +1,5 @@
-Tools = ["SQL", "Cassandra", "Hive", "Presto", "Kafka", "Hugging Face", "Hadoop",
+Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 = [
+         "SQL", "Cassandra","Hive", "Presto", "Kafka", "Hugging Face", "Hadoop",
          "Apache Airflow", "Hugging Face Transformers", "MLFlow", "ClearML", "Faiss",
          "BigARTM", "BERTopic", "ONNX", "TensorRT", "Git", "Bash", "Docker", "Docker Compose",
          "Linux", "R-CNN", "Fast R-CNN", "Faster R-CNN", "Mask R-CNN", "YOLOv5", "Flask",
@@ -11,4 +12,5 @@ Tools = ["SQL", "Cassandra", "Hive", "Presto", "Kafka", "Hugging Face", "Hadoop"
          "Trino", "NLTK", "PyMorphy2", "PyMystem3", "PyScript", "KubeFlow", "CUDA", "VAE",
          "OpenCV", "TeamCity", "Jenkins", "Bamboo", "OpenShift", "Prometheus" "Nifi",
          "JupyterHub", "InfluxDB", "Elasticsearch", "Cassandra", "fastText", "MapReduce"]
-         
+
+print(len(Tools_For_MLEngineer_jobs_From_HeadHunter_the_11th_February_2023)
