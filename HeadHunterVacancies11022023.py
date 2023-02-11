@@ -63,6 +63,6 @@ check_H = 'H'
 
 res_H = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_H.lower()]
  
-print("The list of technologies that start with H" + str(res_H))
+print("The list of technologies that start with H\n" + str(res_H))
 
 
