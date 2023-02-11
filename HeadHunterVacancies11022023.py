@@ -13,4 +13,4 @@ Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_202
          "OpenCV", "TeamCity", "Jenkins", "Bamboo", "OpenShift", "Prometheus" "Nifi",
          "JupyterHub", "InfluxDB", "Elasticsearch", "Cassandra", "fastText", "MapReduce"]
 
-print(len(Tools_For_MLEngineer_jobs_From_HeadHunter_the_11th_February_2023))
+print(len(Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023))
