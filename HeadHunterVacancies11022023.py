@@ -13,7 +13,7 @@ Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_202
          "OpenCV", "TeamCity", "Jenkins", "Bamboo", "OpenShift", "Prometheus" "Nifi",
          "JupyterHub", "InfluxDB", "Elasticsearch", "Cassandra", "fastText", "MapReduce"]
 
-print("The total number of technologies represented on HeadHunter on the 11th of Februray 2023:\n" len(Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023) + "\n")
+print("The total number of technologies represented on HeadHunter on the 11th of Februray 2023:\n" +str(len(Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023)) + "\n")
 
 check_A = 'A'
  
