@@ -40,3 +40,29 @@ check_D = 'D'
 res_D = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_D.lower()]
  
 print("The list of technologies that start with D" + str(res_D))
+
+check_E = 'E'
+
+res_E = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_E.lower()]
+ 
+print("The list of technologies that start with E" + str(res_E))
+
+check_F = 'F'
+
+res_F = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_F.lower()]
+ 
+print("The list of technologies that start with F" + str(res_F))
+
+check_G = 'G'
+
+res_G = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_G.lower()]
+ 
+print("The list of technologies that start with G" + str(res_G))
+
+check_H = 'H'
+
+res_H = [idx for idx in Tools_For_MLEngineer_jobs_based_on_HeadHunter_vacancies_on_the_11th_February_2023 if idx[0].lower() == check_H.lower()]
+ 
+print("The list of technologies that start with H" + str(res_H))
+
+
