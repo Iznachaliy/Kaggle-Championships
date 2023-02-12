@@ -7,10 +7,10 @@ print('Enter the second number:')
 b = int(input())
 
 if b > a*3:
-    print("b is a shilling account")
+    print("b is a shilling profile")
     
 elif a > b*3:
-    print("a is a shilling account")
+    print("a is a shilling profile")
   
 else:
-  print("there is no shilling accounts")
+  print("there is no shilling profiles")
